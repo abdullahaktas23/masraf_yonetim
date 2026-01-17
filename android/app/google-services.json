@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534344268507",
+    "project_id": "masraf-yonetim",
+    "storage_bucket": "masraf-yonetim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534344268507:android:2958fe1870cd4d714b2afe",
+        "android_client_info": {
+          "package_name": "com.example.masraf_yonetim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriZH1gQegKHTRhoIfF8I2F8nczFEuRSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
